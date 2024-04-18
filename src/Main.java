@@ -6,5 +6,6 @@ public class Main {
         // 변경
         System.out.printf("Hello and welcome!");
         // 0418 멘토멘티 프로그램 테스트
+        // 테스트 기능을 만들거야
     }
 }
